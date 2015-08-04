@@ -1,0 +1,33 @@
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe.config
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\bin\Debug\obstaclofy.pdb
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Properties.Resources.resources
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csproj.GenerateResource.Cache
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.exe
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.pdb
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form1.resources
+c:\users\abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csprojResolveAssemblyReference.cache
+C:\Users\Abi\documents\visual studio 2012\Projects\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form2.resources
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe.config
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.exe
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.pdb
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\bin\Debug\obstaclofy.pdb
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csprojResolveAssemblyReference.cache
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form1.resources
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form2.resources
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Properties.Resources.resources
+C:\Users\Abi\Desktop\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csproj.GenerateResource.Cache
+C:\Users\Abi\Desktop\vs\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe.config
+C:\Users\Abi\Desktop\vs\obstaclofy\obstaclofy\obj\Debug\obstaclofy.exe
+C:\Users\Abi\Desktop\vs\obstaclofy\obstaclofy\obj\Debug\obstaclofy.pdb
+D:\backup\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe.config
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.exe
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.pdb
+D:\backup\obstaclofy\obstaclofy\bin\Debug\obstaclofy.exe
+D:\backup\obstaclofy\obstaclofy\bin\Debug\obstaclofy.pdb
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csprojResolveAssemblyReference.cache
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form1.resources
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Form2.resources
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.Properties.Resources.resources
+D:\backup\obstaclofy\obstaclofy\obj\Debug\obstaclofy.csproj.GenerateResource.Cache
